@@ -44,7 +44,7 @@
 ---
 破产清算对该公司股价的影响
 
-# Practices & Experiences
+# Practice & Experiences
 
 [疫情中投资策略](./strategy.md) `20200422`
 ---
