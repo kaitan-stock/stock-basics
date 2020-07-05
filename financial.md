@@ -2,7 +2,7 @@
 
 肖星老师 youtube:
 
-{% include youtubePlayer.html id="PLQ6rDC61XVwUKrzI4hg0ESClyhbX7qqBy" %}
+{% include youtubePlayer.html id="D2h4R24vULk" %}
 
-{% include youtubePlayer.html id="PLQ6rDC61XVwVkDZWF3fa7KHLFR1jlqCdN" %}
+{% include youtubePlayer.html id="RdDZyogHuB8" %}
 
