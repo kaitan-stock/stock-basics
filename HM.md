@@ -56,18 +56,18 @@ Herman致力于`开发功能和设计`出色的新产品和创新产品。
 
 - 每股收益提升，在2020有所下降。
 
-![EPS](./HM-graph/eps.png)
+![EPS](./HM-graph/eps.jpg)
 
 - 公司稳定性好
 
-![Debt to Equity Ratio](./HM-graph/de.png)
+![Debt to Equity Ratio](./HM-graph/de.jpg)
 
 
 - ROE ROA 盈利能力高于竞争者
 
-![Return on Equity](./HM-graph/roe.png)
+![Return on Equity](./HM-graph/roe.jpg)
 
-![Return on Asset](./HM-graph/roa.png)
+![Return on Asset](./HM-graph/roa.jpg)
 
 
 - 扣除销售成本，人工和利息费用: 高于同行业
@@ -107,7 +107,7 @@ Efforts include providing frontline health care workers with necessary face mask
 
 bull market
 
-![?](./HM-graph/market.png)
+![?](./HM-graph/stock.png)
 
 淡季：销量下降，利润下降，投资气氛低迷，股价下降。买入
 
