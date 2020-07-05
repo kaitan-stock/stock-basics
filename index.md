@@ -16,6 +16,9 @@
 ---
 分析公司时的checklist
 
+[疫情中投资策略](./strategy.md) `20190422`
+---
+疫情中投资策略
 
 [Herman Miller](./HM.md) `20200416`
 ---
