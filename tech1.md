@@ -108,5 +108,6 @@ Tips:
 - 这种现象的产生，预示着行情在今后会发生反转走势，投资者应当积极介入，因为市场根本没有风险。
 
 youtube-MACD分析
+
 {% include youtubePlayer id="6vYUAe0c4Y" %}
 
