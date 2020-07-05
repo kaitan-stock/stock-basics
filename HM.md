@@ -72,7 +72,7 @@ Herman致力于`开发功能和设计`出色的新产品和创新产品。
 
 - 扣除销售成本，人工和利息费用: 高于同行业
 
-![Operating Margin](./HM-graph/margin.png)
+![Operating Margin](./HM-graph/margin.jpg)
 
 ## Estimation
 
