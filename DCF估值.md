@@ -34,9 +34,6 @@
 
 # WACC计算工具：[WACC Calculator](https://www.calkoo.com/en/wacc-calculator)
 
-<img src="https://i.upmath.me/svg/%0AWACC%20%26%3D%5Cfrac%7BE%7D%7BD%2BE%7D%5Ctimes%20r_%7BE%7D%2B%5Cfrac%7BD%7D%7BD%2BE%7D%5Ctimes%20r_%7BD%7D%5Ctimes%20(1-t)%5C%5C%0A" alt="
-WACC &amp;=\frac{E}{D+E}\times r_{E}+\frac{D}{D+E}\times r_{D}\times (1-t)\\
-" />
 
 - Cost of equity (rE) = Risk Free Rate(RF) + Market Risk Premium(RM-RF) x BETA
   - RF - Market - US Treasury Bonds Rates - TNX
