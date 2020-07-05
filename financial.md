@@ -8,7 +8,7 @@
 
 主要关注科目：
 
-1. Asset
+### Asset
 
 - current asset（排列顺序通常代表可变现的速度）
   - cash and cash equivalents 
@@ -23,7 +23,7 @@
 ![](./finance-graph/f3.png)
 
 
-2. Liabilities and stockholders' equity
+### Liabilities and stockholders' equity
 
 - current liabilities
   * account payable – 越多代表可以赊账越多，公司主动权高
