@@ -45,7 +45,6 @@
 | PBT Margin (Profit Before Tax)                        | -26          | -32.3       | -49.5            | -32.7           |                                                       | Profitability Ratios |
 | Operating Costs (% of Sales)                          | 129          | 126.3       | 138.3            | 133.7           |                                                       | Cost Ratios          |
 | Administration Costs (% of Sales)                     | 16.3         | 18.9        | 18.2             | 18.7            |                                                       | Cost Ratios          |
-| 短期偿债能力逐年上升，quick ratio， current ratio不足 |              |             |                  |                 |                                                       |                      |
 | Current Ratio                                         | 1.2          | 1.2         | 1                | 1               | 短期偿债能力逐年上升，quick ratio， current ratio不足 | Liquidity Ratios     |
 | Quick Ratio                                           | 1.2          | 1.1         | 1                | 0.9             |                                                       | Liquidity Ratios     |
 | Debt to Equity Ratio                                  | 1            | 1.1         | 1.4              | 1.7             | 负债比，越高越危险                                    | Leverage Ratios      |
