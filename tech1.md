@@ -109,5 +109,5 @@ Tips:
 
 youtube-MACD分析
 
-{% include youtubePlayer id="6vYUAe0c4Y" %}
+{% include youtubePlayer.html id="6vYUAe0c4Y" %}
 
